@@ -130,7 +130,7 @@ A fully functional music player with playlist management, audio controls, and be
 
 \## 🔗 Live Demo
 
-https://nithesh-cod.github.io/CodeAlpha\_MusicPlayer/
+https://nithesh-cod.github.io/CodeAlpha_MusicPlayer/
 
 
 
